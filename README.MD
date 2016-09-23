@@ -1,4 +1,4 @@
-ReduxAsyncConnect for React Router
+ReduxAsyncConnect for React Router WITH REACT@15.X.X
 ============
 [![npm version](https://img.shields.io/npm/v/redux-async-connect.svg?style=flat-square)](https://www.npmjs.com/package/redux-async-connect)
 
