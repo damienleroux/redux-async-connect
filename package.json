@@ -8,6 +8,7 @@
     "url": "git+ssh://git@github.com/Rezonans/redux-async-connect.git"
   },
   "scripts": {
+    "postinstall": "npm run build",
     "build": "babel ./modules -d lib --ignore '__tests__'",
     "lint": "eslint modules",
     "start": "babel-node example/server.js",
